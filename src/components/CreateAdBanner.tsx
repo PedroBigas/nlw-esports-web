@@ -1,6 +1,6 @@
 import { MagnifyingGlassPlus } from 'phosphor-react'
 
-export default function Publicar() {
+export default function CreateAdBanner() {
     return(
         <div className='pt-1 bg-nlw-gradient self-stretch rounded-lg mt-8 '>
         <div className='bg-[#2a2634] px-8 py-6 flex justify-between items-center'>
